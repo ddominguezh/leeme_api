@@ -8,4 +8,4 @@ services:
     environment:
       PYTHONPATH: .
     ports:
-      - "8080:8080"
+      - "5000:5000"

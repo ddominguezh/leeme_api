@@ -14,6 +14,6 @@ RUN poetry install
 
 COPY . /code
 
-CMD ["poetry", "run", "uvicorn", "leeme_app.main.main:app", "--host", "0.0.0.0", "--port", "8080"]
+CMD ["poetry", "run", "uvicorn", "leeme_app.main.main:app", "--host", "0.0.0.0", "--port", "5000"]
 
-EXPOSE 8080
+EXPOSE 5000
