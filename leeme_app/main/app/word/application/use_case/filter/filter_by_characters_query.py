@@ -23,4 +23,4 @@ class FilterByCharactersQueryHandler(QueryHandler):
 
     def process(self, query: FilterByCharactersQuery) -> "FilterByCharactersQueryResponse":
         words :Words = self.repository.find_all(query.mainCharacter)
-        return FilterByCharactersQueryResponse(words.containsOnlyCharacters(query.characters))
+        return FilterByCharactersQueryResponse(words.removeIlegalCharacters().containsOnlyCharacters(query.characters).value)
