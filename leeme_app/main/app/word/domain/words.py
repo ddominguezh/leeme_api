@@ -6,6 +6,13 @@ from leeme_app.main.app.word.domain.value_object.word import Word, WordFactory
 class Words:
     value: [Word]
 
+    def containsMainCharacter(self, character: str):
+        withoutCharacters = []
+        for word in self.value:
+            if character in word.value:
+                withoutCharacters.append(word)
+        return WordsFactory.copy(withoutCharacters)
+
     def containsOnlyCharacters(self, characters: []):
         withoutCharacters = []
         for word in self.value:

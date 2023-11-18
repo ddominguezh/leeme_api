@@ -6,5 +6,5 @@ from leeme_app.main.app.word.domain.words import Words
 class WordRepository(ABC):
 
     @abstractmethod
-    def find_all(self, character: str) -> Words:
+    def find_all(self, characters: [str]) -> Words:
         pass

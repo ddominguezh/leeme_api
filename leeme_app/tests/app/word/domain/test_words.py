@@ -12,6 +12,13 @@ class TestWords:
         assert 'definitud' == words.value[2].value
         assert 'deflación' == words.value[3].value
 
+    def test_words_with_main_character(self):
+        words = WordsFactory.create(['dactilograma', 'decárea', 'definitud', 'deflación']).containsMainCharacter('c').value
+        assert len(words) == 3
+        assert 'dactilograma' == words[0].value
+        assert 'decárea' == words[1].value
+        assert 'deflación' == words[2].value
+
     def test_filter_words(self):
         words = WordsFactory.create(['dactilograma', 'decárea', 'definitud', 'deflación']).containsOnlyCharacters(['a', 'á', 'e', 'i', 'u', 'd', 'c', 'r', 'f', 'n', 't']).value
         assert 'decárea' == words[0].value
