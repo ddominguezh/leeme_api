@@ -1,0 +1,5 @@
+uvicorn==0.24.0.post1
+poetry==1.7.1
+fastapi==0.104.1
+pydantic==2.5.1
+pytest==7.4.2
