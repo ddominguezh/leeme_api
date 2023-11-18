@@ -8,8 +8,9 @@ from leeme_app.main.shared.domain.query_handler import QueryHandler
 from leeme_app.main.shared.domain.query_response import QueryResponse
 
 class FilterByCharactersQuery(Query):
-    def __init__(self, characters: []) -> None:
+    def __init__(self, mainCharacter: str, characters: []) -> None:
         super().__init__(uuid.uuid1())
+        self.mainCharacter = mainCharacter
         self.characters = characters
 
 class FilterByCharactersQueryResponse(QueryResponse):
@@ -21,5 +22,5 @@ class FilterByCharactersQueryHandler(QueryHandler):
         self.repository = repository
 
     def process(self, query: FilterByCharactersQuery) -> "FilterByCharactersQueryResponse":
-        words :Words = self.repository.find_all(query.characters)
+        words :Words = self.repository.find_all(query.mainCharacter)
         return FilterByCharactersQueryResponse(words.containsOnlyCharacters(query.characters))

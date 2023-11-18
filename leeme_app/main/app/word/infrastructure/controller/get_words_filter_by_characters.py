@@ -13,13 +13,14 @@ async def _find_all_words_by_character_query_handler() -> QueryHandler:
     repository = FileWordRepository()
     return FilterByCharactersQueryHandler(repository)
 
-@get_words_filter_by_characters_router.get("/api/v1/words/{characters}", response_model=WordsResponse)
+@get_words_filter_by_characters_router.get("/api/v1/words/{mainCharacter}/{characters}", response_model=WordsResponse)
 def get_words_filter_by_characters_controller(
+    mainCharacter: str,
     characters: str,
     response: Response,
     handler: QueryHandler = Depends(_find_all_words_by_character_query_handler)
 ) -> WordsResponse:
-    query = FilterByCharactersQuery(characters.split(','))
+    query = FilterByCharactersQuery(mainCharacter, characters.split(','))
     _filterResponse: FilterByCharactersQueryResponse = handler.process(query)
     response.status_code = status.HTTP_200_OK
     words = []

@@ -7,12 +7,11 @@ from leeme_app.main.app.word.domain.words import Words, WordsFactory
 
 class FileWordRepository(WordRepository):
 
-    def find_all(self, characters: []) -> Words:
+    def find_all(self, character: str) -> Words:
         words = []
-        for character in characters:
-            try:
-                with open('{}/data/{}.txt'.format(pathlib.Path().absolute(), character)) as f:
-                    words = words + f.read().splitlines()
-            except:
-                pass
+        try:
+            with open('{}/data/{}.txt'.format(pathlib.Path().absolute(), character)) as f:
+                words = words + f.read().splitlines()
+        except:
+            pass
         return WordsFactory.create(words)

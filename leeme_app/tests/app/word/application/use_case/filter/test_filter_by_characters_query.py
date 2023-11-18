@@ -12,6 +12,6 @@ class TestFilterByCharactersQuery:
         repository = Mock(spec=WordRepository)
         repository.find_all.return_value = words
         useCase = FilterByCharactersQueryHandler(repository)
-        response = useCase.process(FilterByCharactersQuery(['u', 'n', 'o', 'd']))
+        response = useCase.process(FilterByCharactersQuery('u', ['u', 'n', 'o', 'd']))
         assert len(response.words) == 1
         assert response.words[0].value == "uno"
