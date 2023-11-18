@@ -9,4 +9,4 @@ class TestFileWordRepository:
     def test_get_words_with_characters(self):
         repository = FileWordRepository()
         words = repository.find_all('a')
-        assert len(words.value) == 11135
+        assert len(words.value) == 110

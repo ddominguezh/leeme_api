@@ -6,7 +6,7 @@ class Word:
 
     def containsOnlyCharacters(self, characters: []) -> bool:
         withoutCharacters = ""
-        for character in set(self.value):
+        for character in set(self.value.lower()):
             if character not in characters:
                 withoutCharacters = withoutCharacters + character
         return withoutCharacters == ""
