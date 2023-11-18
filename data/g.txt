@@ -1,12 +1,10 @@
-g
 gabacha
 gabachada
 gabacho, cha
 gabán
 gabarda
 gabardina
-gabarra1
-gabarra2
+gabarra
 gabarrero, ra
 gabarro
 gabarse
@@ -27,8 +25,7 @@ gabrieles
 gabuzo
 gacel
 gacela
-gaceta1
-gaceta2
+gaceta
 gacetable
 gacetero, ra
 gacetilla
@@ -40,8 +37,7 @@ gachapero
 gachapo
 gachasmigas
 gaché
-gacheta1
-gacheta2
+gacheta
 gachí
 gachó
 gacho, cha
@@ -58,8 +54,7 @@ gadolinio
 gaélico, ca
 gaetano, na
 gafa
-gafar1
-gafar2
+gafar
 gafarrón
 gafe
 gafear
@@ -133,8 +128,7 @@ gálata
 galavardo
 galaxía
 galayo
-galbana1
-galbana2
+galbana
 galbanado, da
 galbanero, ra
 gálbano
@@ -156,8 +150,7 @@ galena
 galénico, ca
 galenismo
 galenista
-galeno1, na
-galeno2, na
+galeno, na
 gáleo
 galeón
 galeota
@@ -177,14 +170,13 @@ galero
 galerón
 galés, sa
 galfarro
-galga1
-galga2
+galga
 galgeño, ña
 galgería
 galgo, ga
 galguear
-galguero1
-galguero2, ra
+galguero
+galguero, ra
 galguesco, ca
 gálgulo
 galiana
@@ -202,8 +194,7 @@ galicista
 gálico, ca
 galicoso, sa
 galicursi
-galilea1
-galilea2
+galilea
 galileo, a
 galillo
 galima
@@ -211,8 +202,7 @@ galimar
 galimatías
 galinaceo, a
 galindo, da
-galio1
-galio2
+galio
 galiparlante
 galiparlista
 galipote
@@ -235,8 +225,7 @@ gállaro
 gallarofa
 gallarón
 gallaruza
-gallear1
-gallear2
+gallear
 gallegada
 gallego, ga
 gallegohablante
@@ -246,20 +235,17 @@ galleguense
 galleguismo
 galleguista
 galleguizar
-galleo1
-galleo2
+galleo
 gallera
 gallería
 gallero, ra
-galleta1
-galleta2
+galleta
 gallete
 galletería
 galletero, ra
 galliforme
 gallillo
-gallina1
-gallina2
+gallina
 gallináceo, a
 gallinaza
 gallinazo
@@ -283,16 +269,14 @@ gallofero, ra
 gallofo, fa
 gallogallina
 gallo, llina
-gallón1
-gallón2
+gallón
 gallonada
 gallonado, da
 gallopinto
 galludo
 gallundera
 galo-
-galocha1
-galocha2
+galocha
 galochero
 galocho, cha
 galófilo, la
@@ -300,8 +284,7 @@ galofobia
 galófobo, ba
 galo, la
 galolatino, na
-galón1
-galón2
+galón
 galoneador, ra
 galoneadura
 galonear
@@ -344,8 +327,7 @@ galvanoscopio
 galvanostega
 galvanostegia
 galvanotipia
-gama1
-gama2
+gama
 gamada
 gamalotal
 gamalote
@@ -365,8 +347,8 @@ gambeta
 gambeteador, ra
 gambetear
 gambetero
-gambeto1
-gambeto2, ta
+gambeto
+gambeto, ta
 Gambia
 gambiano, na
 gambito
@@ -436,8 +418,7 @@ gancho
 ganchoso, sa
 ganchudo, da
 gándara
-gandaya1
-gandaya2
+gandaya
 gandido, da
 gandiense
 gandinga
@@ -446,17 +427,15 @@ gandola
 gandolero, ra
 gandujado
 gandujar
-gandul1
-gandul2, la
+gandul
+gandul, la
 gandulear
 gandulería
 gandumbas
 gane
 ganeta
 ganforro, rra
-ganga1
-ganga2
-ganga3
+ganga
 gangarilla
 gangarria
 gangear
@@ -549,9 +528,7 @@ garbanzo
 garbanzón
 garbanzuelo
 garbar
-garbear1
-garbear2
-garbear3
+garbear
 garbeo
 garbera
 garbero
@@ -593,8 +570,7 @@ gargajeada
 gargajear
 gargajeo
 gargajiento, ta
-gargajo1
-Gargajo2
+gargajo
 gargajoso
 gargal
 gargalizar
@@ -618,10 +594,8 @@ gargarismo
 gargarizar
 gárgaro
 gargavero
-gárgol1
-gárgol2
-gárgola1
-gárgola2
+gárgol
+gárgola
 gargolismo
 gargozada
 garguero
@@ -650,8 +624,7 @@ garlopa
 garma
 garmasa
 garmejón
-garnacha1
-garnacha2
+garnacha
 garnatón
 garniel
 garnucho
@@ -684,8 +657,7 @@ garrapatón
 garrapatoso, sa
 garrapiña
 garrapiñado, da
-garrapiñar1
-garrapiñar2
+garrapiñar
 garrapo, pa
 garrar
 garrasí
@@ -701,8 +673,7 @@ garrobal
 garrobear
 garrobero, ra
 garrobilla
-garrobo1
-garrobo2
+garrobo
 garrocha
 garrochar
 garrochazo
@@ -743,8 +714,7 @@ garullada
 garullo
 garvín
 garza
-garzón1
-garzón2
+garzón
 garzonear
 garzonía
 garzota
@@ -826,18 +796,15 @@ gateado, da
 gateamiento
 gatear
 gateo
-gatera1
-gatera2
-gatera3
+gatera
 gatería
 gatero, ra
 gatesco, ca
 gatillar
 gatillazo
 gatillo
-gato1, ta
-gato2
-gato3
+gato, ta
+gato
 gatomuso, sa
 gatopardo
 gatuna
@@ -853,16 +820,13 @@ gauchesco, ca
 gaucho, cha
 gaudeamus
 gaudón
-gauss1
-Gauss2
+gauss
 gavanza
 gavanzo
 gavera
 gaveta
 gavetero
-gavia1
-gavia2
-gavia3
+gavia
 gavial
 gaviero
 gavieta
@@ -871,8 +835,7 @@ gavilán
 gavilana
 gavilancillo
 gavilla
-gavillar1
-gavillar2
+gavillar
 gavillero
 gavilucho
 gavina
@@ -882,19 +845,17 @@ gaviota
 gaviotín
 gavota
 gay
-gaya1
-gaya2
+gaya
 gayadura
 gayar
 gayata
-gayo1
-gayo2, ya
+gayo
+gayo, ya
 gayola
 gayomba
 gayuba
 gayumbos
-gaza1
-gaza2
+gaza
 gazafatón
 gazapa
 gazapatón
@@ -902,10 +863,9 @@ gazapear
 gazapeo
 gazapera
 gazapina
-gazapo1
-gazapo2
-gazapón1
-gazapón2, na
+gazapo
+gazapón
+gazapón, na
 gazgaz
 gazmiar
 gazmol
@@ -926,8 +886,7 @@ gazpachero
 gazpacho
 gazpachuelo
 gazuza
-ge1
-ge2
+ge
 gea
 gecónido
 gehena
@@ -1123,8 +1082,7 @@ geópono, na
 geopoolítica
 geoquímico, ca
 georama
-georgiano1, na
-georgiano2, na
+georgiano, na
 geórgico, ca
 geosfera
 geotecnia
@@ -1155,8 +1113,7 @@ germanización
 germanizar
 germán, na
 germano-
-germano1, na
-germano2, na
+germano, na
 germanofilia
 germanófilo, la
 germanofobia
@@ -1180,8 +1137,7 @@ geropsiquiátrico, ca
 gerundense
 gerundiada
 gerundiano, na
-gerundio1
-gerundio2
+gerundio
 gerundivo
 gesneriáceo, a
 gesolreút
@@ -1197,8 +1153,7 @@ gestero, ra
 gesticulación
 gesticulador, ra
 gesticulante
-gesticular1
-gesticular2
+gesticular
 gesticuloso, sa
 gestión
 gestionar
@@ -1226,8 +1181,7 @@ giboso, sa
 gibraltareño, ña
 giennense
 giga-
-giga1
-giga2
+giga
 gigabyte
 giganteo, a
 gigantesco, ca
@@ -1242,8 +1196,7 @@ gigantón, na
 gigote
 gijonense
 gijonés, sa
-gil1
-gil2
+gil
 gilada
 gilbert
 gilé
@@ -1270,8 +1223,7 @@ gimoteo
 gin
 gindama
 ginea
-ginebra1
-ginebra2
+ginebra
 ginebrada
 ginebrés, sa
 ginebrino, na
@@ -1309,8 +1261,7 @@ girar
 girasol
 giratrio, ria
 girino
-giro1
-giro2
+giro
 girocompás
 girodcópico, ca
 girola
@@ -1526,15 +1477,13 @@ golfán
 golfante
 golfear
 golfería
-golfín1
-golfín2
+golfín
 golfina
 golfista
 golfístico, ca
 golfito
-golfo1
-golfo2, fa
-golfo3
+golfo
+golfo, fa
 Golgi
 goliardesco, ca
 goliardo, da
@@ -1591,8 +1540,7 @@ gomenol
 gomer
 gomera
 gomería
-gomero1, ra
-gomero2, ra
+gomero, ra
 gomia
 gomina
 gominola
@@ -1601,7 +1549,6 @@ gomorresina
 gomosería
 gomosidad
 gomoso, sa
-gónada
 gónada
 gonadal
 gonádico, ca
@@ -1684,7 +1631,7 @@ gorlita
 gormador, ra
 gormar
 gorno
-gorón1
+gorón
 goronear
 gorra
 gorrada
@@ -1703,7 +1650,7 @@ gorrionera
 gorrión, na
 gorrista
 gorro
-gorrón2, na
+gorrón, na
 gorrona
 gorronal
 gorronería
@@ -1767,8 +1714,7 @@ graciola
 graciosamente
 graciosidad
 gracioso, sa
-grada1
-grada2
+grada
 gradación
 gradado, da
 gradar
@@ -1778,11 +1724,9 @@ gradeo
 gradería
 graderío
 gradiente
-gradilla1
-gradilla2
+gradilla
 -grado
-grado1
-grado2
+grado
 gradoso, sa
 graduable
 graduación
@@ -1812,8 +1756,7 @@ grafista
 grafística
 grafitero, ra
 grafiti
-grafito1
-grafito2
+grafito
 grafo
 grafo-
 -grafo, fa
@@ -1851,8 +1794,7 @@ gramático, ca
 gramatiquear
 gramatiquería
 gramil
-gramilla1
-gramilla2
+gramilla
 gramíneo, a
 gramnegativo
 gramo
@@ -1863,8 +1805,7 @@ gramoso, sa
 grampa
 grampositivo
 gran
-grana1
-grana2
+grana
 granada
 granadal
 granadera
@@ -1872,12 +1813,10 @@ granadero
 granadí
 granadilla
 granadillo
-granadina1
-granadina2
-granadino1, na
-granadino2, na
-granado1
-granado2, da
+granadina
+granadino, na
+granado
+granado, da
 granaína
 granalla
 granallar
@@ -1925,11 +1864,9 @@ granillero, ra
 granillo
 granilloso, sa
 granítico, ca
-granito1
-granito2
+granito
 granívoro, ra
-granizada1
-granizada2
+granizada
 granizado, da
 granizar
 granizo
@@ -1953,8 +1890,7 @@ granujo
 granujoso, sa
 granulación
 granulado, da
-granular1
-granular2
+granular
 granulia
 gránulo
 granulocito
@@ -1962,21 +1898,18 @@ granulocitosis
 granulometría
 granulométrico, ca
 granuloso, sa
-granza1
-granza2
+granza
 granzón
 granzoso, sa
 grañón
 grañudo, da
 grañuela
 grao
-grapa1
-grapa2
+grapa
 grapadora
 grapar
 grapo
-grasa1
-grasa2
+grasa
 grasera
 grasería
 graseza
@@ -2057,8 +1990,7 @@ gredal
 gredoso, sa
 green
 grefier
-gregal1
-gregal2
+gregal
 gregario, ria
 gregarismo
 gregizar
@@ -2086,16 +2018,15 @@ grey
 grial
 grida
 gridar
-griego1, ga
-griego2
+griego, ga
+griego
 griesgo
 grieta
 grietado, da
 grietarse
 grietearse
 grietoso, sa
-grifa1
-grifa2
+grifa
 grifalto
 grifar
 grifarse
@@ -2112,8 +2043,8 @@ grillera
 grillero
 grilleta
 grillete
-grillo1, lla
-grillo2
+grillo, lla
+grillo
 grillos
 grillotalpa
 grima
@@ -2126,8 +2057,7 @@ gringada
 gringo, ga
 gringuero, ra
 griñolera
-griñón1
-griñón2
+griñón
 gripa
 gripado
 gripal
@@ -2201,8 +2131,7 @@ gruir
 gruista
 gruja
 grujir
-grulla1
-grulla2
+grulla
 grullada
 grullero, ra
 grullo, lla
@@ -2228,8 +2157,7 @@ gruta
 grutesco, ca
 gruyer
 gu
-gua1
-gua2
+gua
 guaba
 guabá
 guabairo
@@ -2273,9 +2201,8 @@ guachipelín
 guachipilín
 guacho, cha
 guacia
-guaco1
-guaco2
-guaco3, ca
+guaco
+guaco, ca
 guadal
 guadalajarense
 guadalajareño, ña
@@ -2294,8 +2221,7 @@ guadañero, ra
 guadañeta
 guadañil
 guadaño
-guadapero1
-guadapero2
+guadapero
 guadarnés
 guadarrameño, ña
 guadatojo
@@ -2312,8 +2238,7 @@ guadual
 guáduba
 guágara
 guagra
-guagua1
-guagua2
+guagua
 guaguancón
 guaguasí
 guaica
@@ -2327,8 +2252,7 @@ guaipe
 guaiquerí
 guaira
 guairabo
-guaireño1, ña
-guaireño2, ña
+guaireño, ña
 guairo
 guairuro
 guaita
@@ -2345,8 +2269,7 @@ guaje
 guájete
 guajibo, ba
 guajillo
-guajiro1, ra
-guajiro2, ra
+guajiro, ra
 guala
 gualá
 gualaicho, cha
@@ -2360,10 +2283,8 @@ gualdera
 gualdo, da
 gualdrapa
 gualdrapazo
-gualdrapear1
-gualdrapear2
-gualdrapeo1
-gualdrapeo2
+gualdrapear
+gualdrapeo
 gualdrapero
 gualicho
 gualiqueme
@@ -2402,22 +2323,18 @@ guando
 guandoca
 guanepe
 guanero, ra
-guango1
-guango2, ga
+guango
+guango, ga
 guangoche
 guangocho, cha
 guangolola
 guanín
-guanina1
-guanina2
+guanina
 guaniquí
-guano1
-guano2
+guano
 guanota
 guanquí
-guanta1
-guanta2
-guanta3
+guanta
 guantada
 guantanamero, ra
 guantazo
@@ -2447,9 +2364,7 @@ guapurú
 guaquear
 guaqueño, ña
 guaquero, ra
-guara1
-guara2
-guara3
+guara
 guarabeado, da
 guaraca
 guaracaro
@@ -2468,8 +2383,8 @@ guaraná
 guarandeño, ña
 guaranga
 guarangada
-guarango1, ga
-guarango2
+guarango, ga
+guarango
 guaraní
 guaranismo
 guaranítico, ca
@@ -2525,8 +2440,7 @@ guardamateriales
 guardameta
 guardamiento
 guardamigo
-guardamonte1
-guardamonte2
+guardamonte
 guardamuebles
 guardamujer
 guardapalos
@@ -2561,8 +2475,7 @@ guardiacivil
 guardiamarina
 guardianía
 guardián, na
-guardilla1
-guardilla2
+guardilla
 guardillón
 guardín
 guardón, na
@@ -2602,8 +2515,7 @@ guarnicionero, ra
 guarniel
 guarnimiento
 guarnir
-guaro1
-guaro2
+guaro
 guaroso, sa
 guarra
 guarrada
@@ -2614,8 +2526,8 @@ guarrero, ra
 guarrido
 guarrilla
 guarrindongo, ga
-guarro1, rra
-guarro2
+guarro, rra
+guarro
 guarte
 guarumal
 guarumo
@@ -2643,15 +2555,14 @@ guaspirolazo
 guastar
 guastatoyano, na
 guasto
-guata1
-guata2
+guata
 guataca
 guatacare
 guataquear
 guataquería
 guatazo
-guate1
-guate2, ta
+guate
+guate, ta
 guateado, da
 guatear
 guatemalense
@@ -2664,16 +2575,15 @@ guatero
 guatíbere
 guatíbero
 guatiní
-guato1
-guato2, ta
+guato
+guato, ta
 guatón, na
 guatusa
 guatusero, ra
 guatuso
 guau
 guaucho
-guay1
-guay2
+guay
 guaya
 guayaba
 guayabal
@@ -2683,14 +2593,13 @@ guayabearse
 guayabero, ra
 guayabita
 guayabito
-guayabo1
-guayabo2
+guayabo
 guayabón
 guayabudo, da
 guayaca
 guayacán
-guayaco1
-guayaco2, ca
+guayaco
+guayaco, ca
 guayacol
 guayadero
 guayado, da
@@ -2698,14 +2607,12 @@ guayamés, sa
 guayanés, sa
 guayaquil
 guayaquileño, ña
-guayar1
-guayar2
+guayar
 guayas
 guayasense
 guaymense
 guaymeño, ña
-guayo1
-guayo2
+guayo
 guayola
 guayuco
 guayusa
@@ -2744,8 +2651,7 @@ güergüero
 guerillero, ra
 güérmeces
 Guernesey
-güero1, ra
-güero2, ra
+güero, ra
 guerra
 guerreador, ra
 guerrear
@@ -2811,8 +2717,7 @@ güinche
 guinchero, ra
 guincho
 guinchón
-guinda1
-guinda2
+guinda
 guindado, da
 guindajo
 guindal
@@ -2825,11 +2730,9 @@ guindaste
 guindear
 guindilla
 guindillo
-guindo1
-guindo2
+guindo
 guindola
-guinea1
-guinea2
+guinea
 guineano, na
 guineo, a
 guinga
@@ -2877,10 +2780,8 @@ guirlache
 guirlanda
 guirnalda
 guirnezamora
-güiro1
-güiro2
-güiro3
-güiro4, ra
+güiro
+güiro, ra
 guiropa
 guirre
 güirro
@@ -2926,8 +2827,7 @@ guizgar
 guiznar
 guizque
 guja
-gula1
-gula2
+gula
 gulag
 gular
 gulash
@@ -2947,16 +2847,15 @@ gunneráceo, a
 gura
 gurapas
 gurbio, bia
-gurbión1
-gurbión2
+gurbión
 gurbionado, da
 gurdo, da
 guripa
 gurí, risa
 gurisa
 guro
-gurriato1, ta
-gurriato2
+gurriato, ta
+gurriato
 gurrión
 gurripato
 gurrufero, ra

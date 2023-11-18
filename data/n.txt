@@ -1,4 +1,3 @@
-n
 na
 naba
 nabab
@@ -17,8 +16,7 @@ nabo
 naborí
 naboría
 nácar
-nácara1
-nácara2
+nácara
 nacarado, da
 nacáreo, a
 nacarigüe
@@ -54,8 +52,8 @@ nacionalsindicalismo
 nacionalsindicalista
 nacionalsocialismo
 nacionalsocialista
-naco1
-naco2, ca
+naco
+naco, ca
 nacre
 nacrita
 nada
@@ -105,8 +103,7 @@ naipear
 naipero, ra
 naipesco, ca
 naire
-naja1
-naja2
+naja
 najerano, na
 najerense
 najerino, na
@@ -124,8 +121,7 @@ nalguear
 nambira
 namibio, bia
 namorar
-nana1
-nana2
+nana
 nanacate
 nanay
 nance
@@ -149,8 +145,7 @@ nansú
 nantar
 nao
 naonato, ta
-napa1
-napa2
+napa
 napalm
 napar
 napea
@@ -175,8 +170,7 @@ narbonés, sa
 narceína
 narcisismo
 narcisista
-narciso1
-narciso2
+narciso
 narco
 narco-
 narcoavioneta
@@ -218,8 +212,7 @@ nariz
 narizón, na
 narizotas
 narizudo, da
-narra1
-narra2
+narra
 narrable
 narración
 narrador, ra
@@ -305,8 +298,8 @@ navajazo
 navajear
 navajeo
 navajero, ra
-navajo1
-navajo2, ja
+navajo
+navajo, ja
 navajón
 navajonazo
 naval
@@ -405,8 +398,7 @@ necrótico, ca
 néctar
 nectáreo, a
 nectarina
-nectarino1, na
-nectarino2, na
+nectarino, na
 nectario
 necton
 nectónico, ca
@@ -528,8 +520,8 @@ neneque
 nenia
 nenúfar
 neo-
-neo1
-neo2, a
+neo
+neo, a
 neocatolicismo
 neocatólico, ca
 Neoclasicismo
@@ -645,8 +637,7 @@ netáceo, a
 netamente
 netezuelo, la
 neto, ta
-neuma1
-neuma2
+neuma
 neumático, ca
 neumo-
 neumococo
@@ -746,8 +737,7 @@ nevus
 newton
 newtoniano, na
 nexo
-ni1
-ni2
+ni
 nía
 nial
 niara
@@ -764,7 +754,7 @@ niceno, na
 niche
 nicho
 nicle
-niclear1
+niclear
 nicociana
 nicol
 nicomediense
@@ -840,8 +830,8 @@ ninja
 ninot
 niña
 niñada
-niñato1
-niñato2, ta
+niñato
+niñato, ta
 niñear
 niñería
 niñero, ra
@@ -960,8 +950,7 @@ nocturno, na
 nodación
 nodal
 nodátil
-nodo1
-nodo2
+nodo
 nodriza
 nodular
 nódulo
@@ -1029,8 +1018,7 @@ nomon
 nomónico, ca
 nomotético, ca
 nomparell
-non1
-non2
+non
 nona
 nonada
 nonagenario, ria
@@ -1157,9 +1145,8 @@ noticioso, sa
 notificación
 notificar
 notificativo, va
-noto1
-noto2, ta
-noto3, ta
+noto
+noto, ta
 notocordio
 notomía
 notoriamente
@@ -1246,7 +1233,7 @@ nuca
 nuche
 nucir
 nucleamiento
-nuclear2
+nuclear
 nucleario, ria
 nuclearización
 nuclearizar
@@ -1261,9 +1248,8 @@ nuco
 nudillo
 nudismo
 nudista
-nudo1
-nudo2, da
-nudo2, da
+nudo
+nudo, da
 nudosidad
 nudoso, sa
 nudrimiento

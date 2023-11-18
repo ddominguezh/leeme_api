@@ -1,10 +1,5 @@
--e
-e-
-e1
-e2
 ea
 eagle
--ear
 easonante
 ebanista
 ebanistería
@@ -83,8 +78,7 @@ eclógico, ca
 eclosión
 eclosionar
 eco
-eco-1
-eco-2
+eco-
 -eco, ca
 ecocardiografía
 ecografía
@@ -161,8 +155,7 @@ ecúmene
 ecuménico, ca
 ecumenismo
 ecúmeno
-ecuo1, cua
-ecuo2, cua
+ecuo, cua
 ecuóreo, a
 eczema
 eczematoso, sa
@@ -243,7 +236,6 @@ efectuar
 efedrácreo, a
 efélide
 efeméride
-efémero
 efémero
 efeminado, da
 efeminar
@@ -354,8 +346,7 @@ ejecutoria
 ejecutoriar
 ejecutorio, ria
 ejecutor, ra
-ejemplar1
-ejemplar2
+ejemplar
 ejemplaridad
 ejemplario
 ejemplarización
@@ -402,8 +393,7 @@ elaterio
 elativo, va
 elato, ta
 elche
-ele1
-ele2
+ele
 eleagnáceo, a
 eleático, ca
 eleatismo
@@ -649,8 +639,7 @@ embajo
 embalador, ra
 embaladura
 embalaje
-embalar1
-embalar2
+embalar
 embaldosado
 embaldosadura
 embaldosar
@@ -665,8 +654,7 @@ embalsadero
 embalsamador, ra
 embalsamamiento
 embalsamar
-embalsar1
-embalsar2
+embalsar
 embalse
 embalumar
 embanastar
@@ -711,8 +699,7 @@ embarrado
 embarrador, ra
 embarradura
 embarrancar
-embarrar1
-embarrar2
+embarrar
 embarriado
 embarrialar
 embarriar
@@ -724,8 +711,7 @@ embarrullar
 embarullador, ra
 embasamiento
 embasarse
-embastar1
-embastar2
+embastar
 embaste
 embastecer
 embatada
@@ -739,10 +725,8 @@ embaulado, da
 embaular
 embausamiento
 embazador
-embazadura1
-embazadura2
-embazar1
-embazar2
+embazadura
+embazar
 embazarse
 embebecer
 embebecidamente
@@ -817,9 +801,7 @@ embolada
 embolado, da
 embolador, ra
 embolante
-embolar1
-embolar2
-embolar3
+embolar
 embolatar
 embolate
 embole
@@ -874,8 +856,7 @@ embostar
 embotador, ra
 embotadura
 embotamiento
-embotar1
-embotar2
+embotar
 embotellado
 embotellador, ra
 embotellamiento
@@ -926,8 +907,7 @@ embrisar
 émbroca
 embrocación
 embrocado, da
-embrocar1
-embrocar2
+embrocar
 embrochado, da
 embrochalar
 embrolla
@@ -982,8 +962,7 @@ embutido
 embutidor, ra
 embutir
 embuzonar
-eme1
-eme2
+eme
 emelga
 emenagogo, ga
 emendación
@@ -1061,8 +1040,7 @@ empalagar
 empalago
 empalagoso, sa
 empalamiento
-empalar1
-empalar2
+empalar
 empaliar
 empalicar
 empalidecer
@@ -1109,8 +1087,7 @@ empapizar
 empapuciar
 empapujar
 empapuzar
-empaque1
-empaque2
+empaque
 empaquetado
 empaquetador, ra
 empaquetadura
@@ -1139,10 +1116,8 @@ emparrillar
 emparvar
 empastador, ra
 empastadura
-empastar1
-empastar2
-empaste1
-empaste2
+empastar
+empaste
 empastelamiento
 empastelar
 empatacado, da
@@ -1156,8 +1131,7 @@ empatizar
 empatucar
 empautado, da
 empavar
-empavesada1
-empavesada2
+empavesada
 empavesado, da
 empavesar
 empavonar
@@ -1169,8 +1143,7 @@ empechar
 empecible
 empeciente
 empecimiento
-empecinado1, da
-empecinado2, da
+empecinado, da
 empecinamiento
 empecinar
 empecinarse
@@ -1188,23 +1161,19 @@ empegadura
 empegar
 empego
 empeguntar
-empeine1
-empeine2
-empeine3
+empeine
 empeinoso, sa
 empelar
 empelazgarse
 empelechar
-empella1
-empella2
+empella
 empellar
 empellejar
 empeller
 empellicar
 empellón
 empelotamiento
-empelotarse1
-empelotarse2
+empelotarse
 empelte
 empeltre
 empelucado, da
@@ -1263,8 +1232,7 @@ empicotadura
 empicotar
 empiece
 empiema
-empiezo1
-empiezo2
+empiezo
 empigüelar
 empilar
 empilchar
@@ -1310,10 +1278,8 @@ emplastro
 emplatado
 emplatar
 emplazador, ra
-emplazamiento1
-emplazamiento2
-emplazar1
-emplazar2
+emplazamiento
+emplazar
 emplea
 empleabilidad
 empleado, da
@@ -1337,13 +1303,11 @@ empobrecedor, ra
 empobrecer
 empobrecimiento
 empoderamiento
-empoderar1
-empoderar2
+empoderar
 empodrecer
 empolla
 empolladura
-empollar1
-empollar2
+empollar
 empollón, na
 empoltronecerse
 empolvar
@@ -1415,8 +1379,7 @@ empujo
 empujón
 empulgadera
 empulgadura
-empulgar1
-empulgar2
+empulgar
 empulguera
 empuntar
 empuñador, ra
@@ -1490,8 +1453,7 @@ enanez
 enangostar
 enanismo
 enano, na
-enante1
-enante2
+enante
 enantes
 enanzar
 enarbolado
@@ -1576,8 +1538,6 @@ encaladura
 encalambrarse
 encalamocarse
 encalar
-encalar1
-encalar2
 encalcar
 encaletarse
 encalichar
@@ -1644,8 +1604,7 @@ encantado, da
 encantador, ra
 encantamento
 encantamiento
-encantar1
-encantar2
+encantar
 encantarar
 encante
 encanto
@@ -1653,14 +1612,11 @@ encantorio
 encantusar
 encanutar
 encañada
-encañado1
-encañado2
+encañado
 encañador, ra
-encañadura1
-encañadura2
+encañadura
 encañamar
-encañar1
-encañar2
+encañar
 encañizada
 encañizar
 encañonado, da
@@ -1790,8 +1746,7 @@ enceguecer
 encelado, da
 encelajarse
 encelamiento
-encelar1
-encelar2
+encelar
 enceldamiento
 encella
 encellar
@@ -1859,8 +1814,7 @@ enchibilar
 enchicar
 enchichar
 enchicharse
-enchilada1
-enchilada2
+enchilada
 enchilado
 enchilar
 enchiloso, sa
@@ -1897,8 +1851,7 @@ enciclópedico, ca
 enciclopedismo
 enciclopedista
 encielar
-encienso1
-encienso2
+encienso
 encierro
 encima
 encimar
@@ -1909,7 +1862,7 @@ encinar
 encino
 encinta
 encintado
-encintar2
+encintar
 encismar
 enciso
 encitar
@@ -1936,8 +1889,7 @@ encobertado, da
 encobijar
 encobilarse
 encobrado, da
-encobrar1
-encobrar2
+encobrar
 encobrijado, da
 -enco, ca
 encochado, da
@@ -2072,8 +2024,7 @@ encuadernación
 encuadernador, ra
 encuadernar
 encuadramiento
-encuadrar1
-encuadrar2
+encuadrar
 encuadre
 encuartar
 encuarte
@@ -2182,8 +2133,7 @@ endocarditis
 endocarpio
 endocéntrico, ca
 endocitosis
-endocrino1, na
-endocrino2, na
+endocrino, na
 endocrinología
 endocrinológico, ca
 endocrinólogo, ga
@@ -2214,8 +2164,7 @@ endorreísmo
 endorsar
 endorso
 endosable
-endosar1
-endosar2
+endosar
 endosatario, ria
 endoscopia
 endoscopio
@@ -2264,8 +2213,7 @@ enebro
 enechado, da
 enejar
 eneldo
-enema1
-enema2
+enema
 enemicísimo, ma
 enemiga
 enemigable
@@ -2435,8 +2383,7 @@ engaitador, ra
 engaitar
 engalabernar
 engalanar
-engalgar1
-engalgar2
+engalgar
 engaliar
 engallado, da
 engallador
@@ -2504,7 +2451,6 @@ engatillar
 engatusador, ra
 engatusamiento
 engatusar
-engatusar
 engavetamiento
 engavetar
 engaviar
@@ -2512,8 +2458,7 @@ engavillar
 engayolar
 engazador, ra
 engazamiento
-engazar1
-engazar2
+engazar
 engazo
 engendrable
 engendración
@@ -2540,9 +2485,7 @@ englutir
 engobe
 engocetar
 -engo, ga
-engolado1, da
-engolado2, da
-engolado2, da
+engolado, da
 engolamiento
 engolar
 engolfar
@@ -2590,8 +2533,7 @@ engrandecer
 engrandecimiento
 engrane
 engranera
-engranujarse1
-engranujarse2
+engranujarse
 engrapado
 engrapadora
 engrapar
@@ -2733,8 +2675,7 @@ enjarje
 enjaular
 enjebar
 enjebe
-enjeco1
-enjeco2
+enjeco
 enjergado, da
 enjergar
 enjerir
@@ -2778,8 +2719,7 @@ enjutar
 enjutez
 enjuto, ta
 enlabiador, ra
-enlabiar1
-enlabiar2
+enlabiar
 enlabio
 enlace
 enlaciar
@@ -2998,17 +2938,14 @@ enrejada
 enrejado
 enrejadura
 enrejalar
-enrejar1
-enrejar2
-enrejar3
+enrejar
 enresmar
 enrevesado, da
 enriado
 enriador, ra
 enriamiento
 enriar
-enridar1
-enridar2
+enridar
 enrielar
 enrigidecer
 enriostrar
@@ -3022,19 +2959,15 @@ enriqueño, ña
 enriscado, da
 enriscamiento
 enriscar
-enristrar1
-enristrar2
+enristrar
 enristre
 enrizado
 enrizamiento
-enrizar1
-enrizar2
+enrizar
 enrobinarse
 enrobrescido, da
-enrocar1
-enrocar2
+enrocar
 enrocarse
-enrocarse1
 enrodar
 enrodelado, da
 enrodrigar
@@ -3054,7 +2987,6 @@ enronar
 enronchar
 enronquecer
 enroñar
-enroquecimiento
 enroquecimiento
 enroscadura
 enroscamiento
@@ -3088,8 +3020,7 @@ ensalitrar
 ensalivar
 ensalmadera
 ensalmador, ra
-ensalmar1
-ensalmar2
+ensalmar
 ensalmo
 ensalobrarse
 ensalzador, ra
@@ -3231,8 +3162,7 @@ entallable
 entallador, ra
 entalladura
 entallamiento
-entallar1
-entallar2
+entallar
 entalle
 entallecer
 entallo
@@ -3259,8 +3189,7 @@ entarugar
 ente
 -ente
 entecado, da
-entecarse1
-entecarse2
+entecarse
 entechar
 enteco, ca
 entejar
@@ -3273,8 +3202,7 @@ entenado, da
 entenciar
 entendederas
 entendedor, ra
-entender1
-entender2
+entender
 entendible
 entendido, da
 entendimiento
@@ -3391,8 +3319,7 @@ entosigar
 entotorar
 entozoario
 entrabaar
-entrada1
-entrada2
+entrada
 entradero
 entradilla
 entrado, da
@@ -3635,8 +3562,7 @@ entruchado
 entruchar
 entruchón, na
 entruejo
-entrujar1
-entrujar2
+entrujar
 entuasiástico, ca
 entubación
 entubajar
@@ -3752,8 +3678,7 @@ envión
 envirar
 envirotado, da
 enviscamiento
-enviscar1
-enviscar2
+enviscar
 enviso, sa
 envite
 enviudar
@@ -3780,8 +3705,7 @@ enzacatarse
 enzainarse
 enzalamar
 enzamarrado, da
-enzarzar1
-enzarzar2
+enzarzar
 enzima
 enzimático, ca
 enzimología
@@ -3795,8 +3719,7 @@ enzurronarse
 -eña
 eñe
 -eño, ña
--eo1
--eo2, a
+-eo
 -eo, a
 eocénico, ca
 eoceno, na
@@ -3900,8 +3823,7 @@ epirótico, ca
 episcopado
 episcopal
 episcopalismo
-episcopio1
-episcopio2
+episcopio
 episcopologio
 episiotimía
 episódicamente
@@ -3978,8 +3900,8 @@ equilibrismo
 equilibrista
 equilicuá
 equimosis
-equino1
-equino2, na
+equino
+equino, na
 equinoccial
 equinoccio
 equinococo
@@ -4024,8 +3946,7 @@ equívoco, ca
 equivoquista
 er
 -era
-era1
-era2
+era
 eradicativo, va
 eraje
 eral, la
@@ -4062,15 +3983,13 @@ ergonomista
 ergónomo, ma
 ergoterapia
 ergotina
-ergotismo1
-ergotismo2
+ergotismo
 ergotista
 erguén
 erguimiento
 erguir
 ería
--ería1
--ería2
+-ería
 erial
 eriazo, za
 ericáceo, a
@@ -4142,8 +4061,7 @@ errar
 errata
 errático, ca
 errátil
-erre1
-erre2
+erre
 erreal
 erro
 erróneamente
@@ -4237,8 +4155,7 @@ escalador, ra
 escalafón
 escalamiento
 escálamo
-escalar1
-escalar2
+escalar
 escaldado, da
 escaldadura
 escaldar
@@ -4377,8 +4294,7 @@ escapismo
 escapista
 escapo
 escápula
-escapular1
-escapular2
+escapular
 escapulario
 escaque
 escaqueado, da
@@ -4429,12 +4345,10 @@ escardillo
 escarearse
 escariador
 escariar
-escarificación1
-escarificación2
+escarificación
 escarificada
 escarificador
-escarificar1
-escarificar2
+escarificar
 escarioso, sa
 escarizar
 escarlador
@@ -4460,10 +4374,8 @@ escarótico, ca
 escarpa
 escarpado, da
 escarpadura
-escarpar1
-escarpar2
-escarpe1
-escarpe2
+escarpar
+escarpe
 escarpelo
 escarpia
 escarpiador
@@ -4493,13 +4405,12 @@ escatima
 escatimar
 escatimosamente
 escatimoso, sa
-escatlogía2
+escatlogía
 escatofagia
 escatófago, ga
 escatófilo, la
-escatología1
-escatológico1, ca
-escatológico2, ca
+escatología
+escatológico, ca
 escaupil
 escavador, ra
 escavanar
@@ -4528,8 +4439,7 @@ escible
 esciencia
 esciente
 escifozoo
-escila1
-Escila2
+escila
 escincido
 escinco
 escindible
@@ -4585,8 +4495,7 @@ escobada
 escobadera
 escobado
 escobajo
-escobar1
-escobar2
+escobar
 escobazar
 escobazo
 escobén
@@ -4610,13 +4519,11 @@ escocedura
 escocer
 escocés, sa
 escochera
-Escocia1
-escocia2
+Escocia
 escocimiento
 escoda
 escodadero
-escodar1
-escodar2
+escodar
 escodiano, na
 escofia
 escofieta
@@ -4634,8 +4541,7 @@ escolán
 escolanía
 escolano, na
 escolapio, pia
-escolar1
-escolar2
+escolar
 escolarca
 escolaridad
 escolariego, ga
@@ -4656,8 +4562,7 @@ escolimado, da
 escolimoso, sa
 escolio
 escoliosis
-escollar1
-escollar2
+escollar
 escollera
 escollo
 escolopendra
@@ -4667,8 +4572,7 @@ escomar
 escombra
 escombrar
 escombrero, ra
-escombro1
-escombro2
+escombro
 escomearse
 escomendrijo
 escomerse
@@ -4676,8 +4580,7 @@ escomesa
 esconce
 escondecucas
 escondedero
-esconder1
-esconder2
+esconder
 escondidamente
 escondidas
 escondidijo
@@ -4745,10 +4648,8 @@ escoscar
 escota
 escotado, da
 escotadura
-escotar1
-escotar2
-escote1
-escote2
+escotar
+escote
 escotera
 escotero, ra
 escotilla
@@ -4820,7 +4721,7 @@ escuadro
 escuadrón
 escuadronar
 escualidez
-escuálido1, da
+escuálido, da
 escualo
 escualor
 escucha
@@ -4911,8 +4812,7 @@ escurril
 escurrilidad
 escurrimbre
 escurrimiento
-escurrir1
-escurrir2
+escurrir
 escusa
 escusabaraja
 escusado, da
@@ -4928,8 +4828,7 @@ escuyer
 esdrujulismo
 esdrujulizar
 esdrújulo, la
-ese1
-ese2
+ese
 esecilla
 esencia
 esencial
@@ -5048,8 +4947,7 @@ esmeraldero, ra
 esmeraldino, na
 esmerar
 esmerejón
-esmeril1
-esmeril2
+esmeril
 esmerilar
 esmerilazo
 esmero
@@ -5114,8 +5012,7 @@ espadillar
 espadillazo
 espadín
 espadista
-espadón1
-espadón2
+espadón
 espadrapo
 espagírico, ca
 espagueti
@@ -5187,8 +5084,7 @@ esparragador, ra
 esparragal
 esparragamiento
 esparragar
-espárrago1
-espárrago2
+espárrago
 esparragón
 esparraguero, ra
 esparraguina
@@ -5269,8 +5165,7 @@ espectroscópico, ca
 espectroscopio
 especulación
 especulador, ra
-especular1
-especular2
+especular
 especulativa
 especulativamente
 especulativo, va
@@ -5306,8 +5201,7 @@ espeluzno
 espeluzo
 espenjador
 espeque
-espera1
-espera2
+espera
 esperable
 esperadamente
 esperadero
@@ -5354,8 +5248,7 @@ esperteza
 espesamente
 espesamiento
 espesante
-espesar1
-espesar2
+espesar
 espesativo, va
 espeseza
 espesor
@@ -5367,12 +5260,10 @@ espetar
 espetera
 espeto
 espetón
-espía1
-espía2
+espía
 espiado, da
 espiador
-espiar1
-espiar2
+espiar
 espibia
 espibio
 espibión
@@ -5397,19 +5288,16 @@ espigueo
 espiguilla
 espilocho
 espín
-espín1
 espina
 espinablo
 espinaca
 espinadura
 espinal
 espinapez
-espinar1
-espinar2
+espinar
 espinazo
 espinel
-espinela1
-espinela2
+espinela
 espíneo, a
 espinera
 espinero
@@ -5493,17 +5381,13 @@ espolada
 espolazo
 espoleadura
 espolear
-espoleta1
-espoleta2
+espoleta
 espoliación
-espolín1
-espolín2
+espolín
 espolinar
-espolio1
-espolio2
+espolio
 espolique
-espolista1
-espolista2
+espolista
 espolón
 espolonada
 espolonazo
@@ -5597,8 +5481,7 @@ espumuy
 espundia
 espurrear
 espurriar
-espurrir1
-espurrir2
+espurrir
 esputar
 esputo
 esquebrajar
@@ -5626,17 +5509,12 @@ esquifada
 esquifar
 esquifazón
 esquife
-esquife1
 esquijama
 esquil
-esquila1
-esquila2
-esquila3
+esquila
 esquilada
 esquilador, ra
-esquilar1
-esquilar2
-esquilar3
+esquilar
 esquileo
 esquilero
 esquilfe
@@ -5646,9 +5524,7 @@ esquilmador, ra
 esquilmante
 esquilmar
 esquilmo
-esquilo1
-esquilo2
-esquilo3
+esquilo
 esquilón
 esquimal
 esquimaleutiano, na
@@ -5677,8 +5553,7 @@ esquisto
 esquistoso, sa
 esquisuche
 esquitar
-esquite1
-esquite2
+esquite
 esquivar
 esquivez
 esquiveza
@@ -5748,8 +5623,7 @@ estadoño
 estadounidense
 estadounidismo
 estadunidense
-estafa1
-estafa2
+estafa
 estafador, ra
 estafar
 estafería
@@ -5826,8 +5700,8 @@ estangurria
 estannífero, ra
 estanque
 estanqueidad
-estanquero1
-estanquero2, ra
+estanquero
+estanquero, ra
 estanquidad
 estanquillero, ra
 estanquillo
@@ -5842,8 +5716,7 @@ estañador, ra
 estañadura
 estañar
 estañero
-estaño1
-estaño2
+estaño
 estaqueadero
 estaqueador
 estaquear
@@ -5868,8 +5741,7 @@ estatera
 estático, ca
 estatificación
 estatificar
-estatismo1
-estatismo2
+estatismo
 estatista
 estativo
 estatización
@@ -5879,8 +5751,6 @@ estatolito
 estátor
 estatua
 estatuar
-estatuario1, ria
-estatuario2, ria
 estatuario, ria
 estatúder
 estatuderato
@@ -5889,22 +5759,18 @@ estatura
 estatus
 estatuto
 estay
-este1
-este2, ta
+este
+este, ta
 esteárico
 estearina
 esteatita
 esteatorrea
 esteatosis
-esteba1
-esteba2
-estebar1
-estebar2
+esteba
+estebar
 estefanote
 estegomía
-estela1
-estela2
-estela2
+estela
 estelado
 estelar
 estelaria
@@ -5932,8 +5798,7 @@ estenotipista
 estent
 estentóreo, a
 esteño, ña
-estepa1
-estepa2
+estepa
 estepar
 estepario, ria
 estepero, ra
@@ -5947,16 +5812,14 @@ esterar
 estercar
 estercoladura
 estercolamiento
-estercolar1
-estercolar2
+estercolar
 estercolero
 estercolizo, za
 estercóreo, a
 estercuelo
 esterculiáceo, a
 estereo-
-estéreo1
-estéreo2
+estéreo
 estereoctomía
 estereofonía
 estereofónico, ca
@@ -5992,8 +5855,7 @@ esterlín
 esterlina
 esternocleimastoideo
 esternón
-estero1
-estero2
+estero
 esteroide
 esteroideo, a
 esterol
@@ -6036,12 +5898,10 @@ estigmatizador, ra
 estigmatizar
 estil
 estilano, na
-estilar1
-estilar2
+estilar
 estilete
 estilicidio
 estilismo
-estilista
 estilista
 estilístico, ca
 estilización
@@ -6099,8 +5959,7 @@ estítico, ca
 estitiquez
 estivación
 estivada
-estival1
-estival2
+estival
 estivo, va
 esto
 estocada
@@ -6111,10 +5970,9 @@ estocástico, ca
 Estocolmo
 estoconazo
 estofa
-estofado1
-estofado2, da
-estofar1
-estofar2
+estofado
+estofado, da
+estofar
 estofo
 estofón, na
 estoicamente
@@ -6124,8 +5982,7 @@ estol
 estola
 estolidez
 estólido, da
-estolón1
-estolón2
+estolón
 estoma
 estomacal
 estomagante
@@ -6133,8 +5990,7 @@ estomagar
 estómago
 estomaguero
 estomatical
-estomático1, ca
-estomático2, ca
+estomático, ca
 estomaticón
 estomatitis
 estomatología
@@ -6197,8 +6053,7 @@ estragamiento
 estragar
 estrago
 estragón
-estral1
-estral2
+estral
 estrambote
 estrambóticamente
 estrambótico, ca
@@ -6258,8 +6113,7 @@ estrelladero
 estrellado, da
 estrellamar
 estrellamiento
-estrellar1
-estrellar2
+estrellar
 estrellato
 estrellera
 estrellería
@@ -6467,7 +6321,7 @@ etesio
 ethos
 ética
 eticidad
-ético1, ca
+ético, ca
 etileno
 etílico, ca
 etilismo
@@ -6563,9 +6417,7 @@ euripo
 euritimia
 eurítmico, ca
 euro-
-euro1
-euro2
-euroasiático, ca
+euro
 euroasiático, ca
 eurocentrismo
 eurocomunismo
@@ -6686,8 +6538,7 @@ evolutivo, va
 evónimo
 evualtivo, va
 ex
-ex-1
-ex-2
+ex-
 exa
 exabrupto
 ex abrupto
@@ -6770,8 +6621,8 @@ exceptador, ra
 exceptar
 exceptio veritatis
 exceptivo, va
-excepto1, ta
-excepto2
+excepto, ta
+excepto
 exceptuación
 exceptuar
 excerpta
@@ -6839,14 +6690,12 @@ excursión
 excursionismo
 excursionista
 excurso
-excusa1
-excusa2
+excusa
 excusabaraja
 excusable
 excusación
 excusada
-excusado1, da
-excusado2, da
+excusado, da
 excusador, ra
 excusalí
 excusar 
@@ -7078,14 +6927,13 @@ explosivo, va
 explotable
 explotación
 explotador, ra
-explotar1
-explotar2
+explotar
 exployada
 expoliación
 expoliador, ra
 expoliar
 expolición
-expolio1
+expolio
 exponencial
 exponente
 exponer
@@ -7316,17 +7164,9 @@ exultante
 exultar
 exutorio
 exvoto
-eyaculación
-eyaculador, ra
-eyacular
-eyaculatorio, ria
 eyección
 eyectable
 eyectar
 eyector
--ez
--eza
--ezno, na
 ezquerdear
 ezquite
--ezuelo, la

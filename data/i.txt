@@ -1,10 +1,3 @@
-i
-i-1
-i-2
--ia
--ía
--iano, na
--iatría
 iatrogenia
 iatrogénico, ca
 ibaguereño, ña
@@ -41,7 +34,6 @@ icnita
 icnografía
 icnográfico, ca
 icnología
--ico, ca
 -ico, ca
 icónico, ca
 -icón, na
@@ -138,8 +130,6 @@ idiotipo
 idiotismo
 idiotizar
 ídish
--ido1, da
--ido2, da
 -ido, da
 ido, da
 idólatra
@@ -163,8 +153,7 @@ idus
 iglesia
 iglesiero, ra
 iglú
-ignaciano1, na
-ignaciano2, na
+ignaciano, na
 Ignacio
 ignaro, ra
 ignavia
@@ -230,7 +219,6 @@ ikastola
 ikebana
 ikurriña
 -il
--il
 ilación
 ilafornario
 ilapso
@@ -250,19 +238,15 @@ ilegitimidad
 ilegítimo, ma
 íleo
 ileocecal
-íleon1
-íleon2
+íleon
 ilercaón, na
 ilercavón, na
 ilerdense
 ilergete
 ileso, sa
 iletrado, da
-iliaco1, ca
-iliaco1, ca
-iliaco2, ca
-ilíaco2, ca
-ilíaco2, ca
+iliaco, ca
+ilíaco, ca
 iliberal
 iliberitano, na
 iliberritano, na
@@ -321,8 +305,7 @@ ilustre
 ilustremente
 ilustreza
 ilustrísimo, ma
-im-1
-im-2
+im-
 imada
 imagen
 imagenería
@@ -331,16 +314,14 @@ imaginable
 imaginación
 imaginamiento
 imaginar
-imaginaria1
-imaginaria2
+imaginaria
 imaginariamente
 imaginario, ria
 imaginativo, va
 imagineria
 imaginero
 imam
-imán1
-imán2
+imán
 imanación
 imanador, ra
 imanar
@@ -352,7 +333,6 @@ imbatibilidad
 imbeblible
 imbécil
 imbecilidad
-imbécilmente
 imbécilmente
 imbele
 imberbe
@@ -667,13 +647,11 @@ impudencia
 impudente
 impúdicamente
 impudicia
-impudicia
 impúdico, ca
 impudor
 impudoroso, sa
 impuesto, ta
-impugnable1
-impugnable2
+impugnable
 impugnación
 impugnador, ra
 impugnar
@@ -708,8 +686,7 @@ imputrescible
 imputrible
 imvatible
 imvatido, da
-in-1
-in-2
+in-
 -ina
 inabarcable
 inabordable
@@ -819,7 +796,6 @@ incanato
 incandescencia
 incandescente
 incansable
-incansable
 incansablemente
 incantable
 incantación
@@ -874,8 +850,7 @@ incidental
 incidentalmente
 incidente
 incidentemente
-incidir1
-incidir2
+incidir
 incienso
 inciente
 inciertamente
@@ -916,8 +891,7 @@ inclinativo, va
 inclinómetro
 ínclito, ta
 incluir
-inclusa1
-inclusa2
+inclusa
 inclusero, ra
 inclusión
 inclusivamente
@@ -1056,8 +1030,7 @@ incontestabilidad
 incontestable
 incontestado, da
 incontinencia
-incontinente1
-incontinente2
+incontinente
 incontinentemente
 incontinenti
 incontinuo
@@ -1128,8 +1101,7 @@ inculpable
 inculpablemente
 inculpación
 inculpadamente
-inculpado1, da
-inculpado2, da
+inculpado, da
 inculpador, ra
 inculpar
 inculpatorio, ria
@@ -1153,8 +1125,8 @@ incurioso, sa
 incurrir
 incursión
 incursionar
-incurso1
-incurso2, sa
+incurso
+incurso, sa
 incursor, ra
 incurvar
 incusar
@@ -1291,9 +1263,8 @@ indilgar
 indiligencia
 indinar
 indino, na
-indio1, dia
-indio2, dia
-indio3
+indio, dia
+indio
 indiófilo, la
 indirecta
 indirectamente
@@ -1498,10 +1469,8 @@ inexcusablemente
 inexequible
 inexhaurible
 inexhausto, ta
-inexistencia1
-inexistencia2
-inexistente1
-inexistente2
+inexistencia
+inexistente
 inexorabilidad
 inexorable
 inexorablemente
@@ -1686,8 +1655,7 @@ informativista
 informativo, va
 informatización
 informatizar
-informe1
-informe2
+informe
 informidad
 informulable
 infortificable
@@ -2132,8 +2100,7 @@ inscripción
 inscripto, ta
 inscrito, ta
 inscrutable
-insecable1
-insecable2
+insecable
 insectario
 insecticida
 insectil
@@ -2265,7 +2232,6 @@ instimular
 instímulo
 instintivamente
 instintivo, va
-instintivo, va
 instinto
 institor
 institución
@@ -2382,8 +2348,7 @@ intelectualizar
 intelectualmente
 intelectualoide
 inteleto
-inteligencia1
-inteligencia2
+inteligencia
 inteligenciado, da
 inteligenciar
 inteligente
@@ -2441,8 +2406,7 @@ intercadencia
 intercadente
 intercalación
 intercaladura
-intercalar1
-intercalar2
+intercalar
 intercambiabilidad
 intercambiable
 intercambiador, ra
@@ -2749,7 +2713,6 @@ intrigar
 intrincable
 intrincación
 intrincadamente
-intrincadamente
 intrincado, da
 intrincamiento
 intrincar
@@ -2883,8 +2846,7 @@ invertida
 invertido, da
 invertir
 investidura
-investigable1
-investigable2
+investigable
 investigación
 investigador, ra
 investigar
@@ -3121,15 +3083,12 @@ irrisión
 irrisoriamente
 irrisorio, ria
 irritabilidad
-irritable1
-irritable2
-irritación1
-irritación2
+irritable
+irritación
 irritador, ra
 irritamiento
 irritante
-irritar1
-irritar2
+irritar
 irritativo, va
 írrito, ta
 irrogación
@@ -3143,8 +3102,7 @@ irunés, sa
 irupaneño, ña
 irupé
 isa
-isabelino1, na
-isabelino2, na
+isabelino, na
 isabelo, la
 isagoge
 isagógico, ca
@@ -3240,9 +3198,7 @@ ISSN
 istmeño, ña
 ístmico, ca
 istmo
--ita1
--ita2
--ita3
+-ita
 itacate
 Italia
 italianismo
@@ -3272,9 +3228,8 @@ itinerante
 itinerario, ria
 -itis
 -itivo, va
--ito1
--ito2
--ito3, ta
+-ito
+-ito, ta
 -itorio, ria
 itrio
 itzaj
