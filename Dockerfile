@@ -4,6 +4,10 @@ WORKDIR /code
 
 COPY pyproject.toml /code
 
+RUN pip install fastapi
+
+RUN pip install uvicorn
+
 RUN pip install poetry
 
 RUN poetry install
