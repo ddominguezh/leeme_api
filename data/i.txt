@@ -113,3 +113,5 @@ inmunóloga
 inspectora
 interventor
 investigadora
+inmunidad
+indio

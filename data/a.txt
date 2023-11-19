@@ -108,3 +108,4 @@ astrólogo
 astrónomo
 administrador
 autor
+avispa

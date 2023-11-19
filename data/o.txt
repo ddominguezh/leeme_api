@@ -103,8 +103,6 @@ orangután
 orca
 ornitorrinco
 oruga
-oso hormiguero
-oso polar
 ostra
 oveja
 obrero
@@ -117,3 +115,5 @@ oncólogo
 ordenanza
 orfebre
 osteópata
+Oscar
+oso
