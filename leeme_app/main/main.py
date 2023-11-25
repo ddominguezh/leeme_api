@@ -10,7 +10,10 @@ app = FastAPI()
 # Configuración de CORS
 origins = [
     "http://localhost:5005",
-    "https://ddominguezh.pythonanywhere.com"
+    "https://ddominguezh.pythonanywhere.com",
+    "http://ddominguezh.pythonanywhere.com",
+    "http://leeme-web-e6887979d705.herokuapp.com",
+    "https://leeme-web-e6887979d705.herokuapp.com"
 ]
 
 app.add_middleware(
