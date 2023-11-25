@@ -126,3 +126,5 @@ Sisi
 Susi
 sapito
 seta
+sale
+solo
