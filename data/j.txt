@@ -95,5 +95,3 @@ jueza
 juguetero
 jurado
 jurista
-jugando
-jugar
