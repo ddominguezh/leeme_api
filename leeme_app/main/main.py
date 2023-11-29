@@ -13,7 +13,9 @@ origins = [
     "https://ddominguezh.pythonanywhere.com",
     "http://ddominguezh.pythonanywhere.com",
     "http://leeme-web-e6887979d705.herokuapp.com",
-    "https://leeme-web-e6887979d705.herokuapp.com"
+    "https://leeme-web-e6887979d705.herokuapp.com",
+    "http://leeme.ddominguezh.es",
+    "https://leeme.ddominguezh.es"
 ]
 
 app.add_middleware(
